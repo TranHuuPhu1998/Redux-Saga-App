@@ -1,0 +1,5 @@
+export const SHOW_LOADING = "GLOBAL_SHOW_LOADING";
+export const HIDF_LOADING = "GLOBAL_HIDF_LOADING";
+
+export const SHOW_SIDEBAR = "SHOW_SIDEBAR";
+export const HIDF_SIDEBAR = "HIDF_SIDEBAR";
